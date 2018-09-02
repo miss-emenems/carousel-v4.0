@@ -1,0 +1,27 @@
+{
+  "name": "carousel-v3.0",
+  "version": "3.0.0",
+  "description": "Tech test for G4M",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.com-emenems:emenems/carousel-v3.0.git"
+  },
+  "author": "MM",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "mocha": "^5.2.0",
+    "request": "^2.88.0",
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "minimatch": "^3.0.4"
+  }
+}

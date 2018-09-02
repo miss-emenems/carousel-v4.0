@@ -1,0 +1,27 @@
+// ---- MAIN SCSS INDEX ---- //
+
+
+@import
+"00-resources/colors",
+"00-resources/fonts";
+
+
+@import
+"01-tools/mixins";
+
+
+@import
+"02-objects/buttons",
+"02-objects/text";
+
+
+@import
+"03-structures/app",
+"03-structures/carousel",
+"03-structures/custom-content";
+
+
+img {
+  max-width: 300px;
+  display: block;
+}

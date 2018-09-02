@@ -1,0 +1,13 @@
+@mixin translateY($value) {
+  transform: translateY($value);
+}
+
+@mixin translate($valueX, $valueY) {
+  -webkit-transform: translate($valueX, $valueY);
+  -ms-transform: translate($valueX, $valueY);
+  transform: translate($valueX, $valueY);
+}
+
+@mixin gradient-linear($deg, $gradient) {
+  background: linear-gradient($deg, $gradient);
+}

@@ -1,0 +1,115 @@
+// -------- BUTTONS -------- //
+
+
+
+.button {
+
+  &--g4m {
+
+    outline: none;
+    text-decoration: none;
+
+    padding: 1em 1.2em;
+    border-radius: 2em;
+
+    background-color: white;
+    color: $blue-1;
+    border: 2px solid white;
+
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+
+    transition: all 0.3s ease;
+
+    i.fa {
+
+      pointer-events: none;
+
+    }
+
+    &:hover {
+      background-color: rgba(white,0.4);
+      color: white;
+    }
+
+  }
+
+  &--expand {
+    i.fa {
+      margin-left: 10px;
+    }
+  }
+
+  &--close {
+
+    background-color: transparent;
+    border: none;
+    outline: none;
+
+    width: 50px;
+    height: 50px;
+
+    font-size: 22px;
+    color: rgba(white,0.5);
+
+    i.fa {
+
+      position: relative;
+      z-index: 2;
+      pointer-events: none;
+
+    }
+
+    &:before {
+
+      content: '';
+      display: block;
+
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      @include translate(-50%, -50%);
+
+      z-index: 0;
+
+      width: 10px;
+      height: 10px;
+      background-color: white;
+
+      border-radius: 50%;
+      opacity: 0;
+
+      transition: all 0.3s ease;
+
+    }
+
+    &:hover {
+
+      color: white;
+
+      &:before {
+
+        width: 100px;
+        height: 100px;
+
+        opacity: 0.1;
+
+      }
+
+      &:focus {
+
+        &:before {
+
+          width: 200px;
+          height: 200px;
+
+          opacity: 0;
+
+        }
+      }
+    }
+  }
+}
+

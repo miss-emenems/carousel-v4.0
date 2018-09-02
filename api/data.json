@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "url": "https://en.wikipedia.org/wiki/Mount_Everest",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mount-Everest.jpg",
+    "title": "Everest",
+    "height": 8848,
+    "description": "Mount Everest, known in Nepali as Sagarmatha and in Tibetan as Chomolungma, is Earth's highest mountain above sea level, located in the Mahalangur Himalsub-range of the Himalayas. The international border between Nepal (Province No. 1) and China (Tibet Autonomous Region) runs across its summit point. The current official elevation of 8,848 m (29,029 ft), recognized by China and Nepal, was established by a 1955 Indian survey and subsequently confirmed by a Chinese survey in 1975. In 2005, China remeasured the rock height of the mountain, with a result of 8844.43 m. There followed an argument between China and Nepal as to whether the official height should be the rock height (8,844 m., China) or the snow height (8,848 m., Nepal). In 2010, an agreement was reached by both sides that the height of Everest is 8,848 m, and Nepal recognizes China's claim that the rock height of Everest is 8,844 m.",
+    "deathRate": "4.4"
+  },
+  {
+    "id": 2,
+    "url": "https://en.wikipedia.org/wiki/K2",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/K2%2C_Mount_Godwin_Austen%2C_Chogori%2C_Savage_Mountain.jpg",
+    "title": "K2",
+    "height": 8611,
+    "description": "K2, also known as Mount Godwin-Austen or Chhogori, at 8,611 metres (28,251 ft) above sea level, is the second highest mountain in the world, after Mount Everest at 8,848 metres (29,029 ft). It is located on the China/Pakistan border between Baltistan in the Gilgit-Baltistan region of northern Pakistan, and the Taxkorgan Tajik Autonomous County of Xinjiang, China. K2 is the highest point of the Karakoram range and the highest point in both Pakistan and Xinjiang. K2 is known as the Savage Mountain due to the extreme difficulty of ascent. It has the second-highest fatality rate among the eight thousanders, with around 300 successful summits and 77 fatalities; about one person dies on the mountain for every four who reach the summit. K2 has never been climbed during winter. Ascents have almost always been made in July and August, the warmest times of year; K2's more northern location makes it more susceptible to inclement and colder weather.",
+    "deathRate": "19.7"
+  },
+  {
+    "id": 3,
+    "url": "https://en.wikipedia.org/wiki/Kangchenjunga",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sunrise_over_Kangchenjunga.jpg",
+    "title": "Kangchenjunga",
+    "height": 8586,
+    "description": "Kangchenjunga, also spelled Kanchenjunga, is the third highest mountain in the world, and the highest of India. It lies between Nepal and Sikkim, India, with three of the five peaks (Main, Central and South) directly on the border, and the remaining two (West and Kangbachen) in Nepal's Taplejung District. It rises with an elevation of 8,586 m (28,169 ft) in a section of the Himalayas called Kangchenjunga Himal delimited in the west by the Tamur River, in the north by the Lhonak Chu and Jongsang La, and in the east by the Teesta River. Until 1852, Kangchenjunga was assumed to be the highest mountain in the world, but calculations based on various readings and measurements made by the Great Trigonometrical Survey of India in 1849 came to the conclusion that Mount Everest, known as Peak XV at the time, was the highest. Allowing for further verification of all calculations, it was officially announced in 1856 that Kangchenjunga is the third highest mountain in the world.",
+    "deathRate": "22"
+  },
+  {
+    "id": 4,
+    "url": "https://en.wikipedia.org/wiki/Lhotse",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Lhotse-fromChukhungRi.jpg",
+    "title": "Lhotse",
+    "height": 8516,
+    "description": "Lhotse (Nepali: [lo_tsi]; Tibetan: lho rtse) is the fourth highest mountain in the world at 8,516 metres (27,940 ft), after Mount Everest, K2, and Kangchenjunga. Part of the Everest massif, Lhotse is connected to the latter peak via the South Col. Lhotse means South Peak in Tibetan. In addition to the main summit at 8,516 metres (27,940 ft) above sea level, the mountain comprises the smaller peaks Lhotse Middle (East) at 8,414 m (27,605 ft), and Lhotse Shar at 8,383 m (27,503 ft). The summit is on the border between Tibet of China and the Khumbu region of Nepal.",
+    "deathRate": "2"
+  },
+  {
+    "id": 5,
+    "url": "https://en.wikipedia.org/wiki/Makalu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Makalu.jpg",
+    "title": "Makalu",
+    "height": 8485,
+    "description": "Makalu is the fifth highest mountain in the world at 8,485 metres (27,838 ft). It is located in the Mahalangur Himalayas 19 km (12 mi) southeast of Mount Everest, on the border between Nepal and Tibet, China. One of the eight-thousanders, Makalu is an isolated peak whose shape is a four-sided pyramid. Makalu has two notable subsidiary peaks. Kangchungtse, or Makalu II (7,678 m) lies about 3 km (2 mi) north-northwest of the main summit. Rising about 5 km (3.1 mi) north-northeast of the main summit across a broad plateau, and connected to Kangchungtse by a narrow, 7,200 m saddle, is Chomo Lonzo (7,804 m).",
+    "deathRate": "8.5"
+  },
+  {
+    "id": 6,
+    "url": "https://en.wikipedia.org/wiki/Cho_Oyu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/ChoOyu-fromGokyo.jpg",
+    "title": "Cho Oyu",
+    "height": 8201,
+    "description": "Cho Oyu is the sixth highest mountain in the world at 8,188 metres (26,864 ft) above sea level. Cho Oyu means \"Turquoise Goddess\" in Tibetan. The mountain is the westernmost major peak of the Khumbu sub-section of the Mahalangur Himalaya 20 km west of Mount Everest. The mountain stands on the China-Nepal border. Just a few kilometres west of Cho Oyu is Nangpa La (5,716m/18,753 ft), a glaciated pass that serves as the main trading route between the Tibetans and the Khumbu's Sherpas. This pass separates the Khumbu and Rolwaling Himalayas. Due to its proximity to this pass and the generally moderate slopes of the standard northwest ridge route, Cho Oyu is considered the easiest 8,000 metre peak to climb. It is a popular objective for professionally guided parties.",
+    "deathRate": "-"
+  },
+  {
+    "id": 7,
+    "url": "https://en.wikipedia.org/wiki/Dhaulagiri",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dhaulagiri_mountain.jpg",
+    "title": "Dhaulagiri I",
+    "height": 8167,
+    "description": "The Dhaulagiri massif in Nepal extends 120 km (70 mi) from the Kaligandaki River west to the Bheri. This massif is bounded on the north and southwest by tributaries of the Bheri River and on the southeast by Myagdi Khola. Dhaulagiri I is the seventh highest mountain in the world at 8,167 metres (26,795 ft) above sea level, and the highest mountain within the borders of a single country (Nepal). It was first climbed on May 13, 1960 by a Swiss/Austrian/Nepali expedition. The mountain's name is dhauligiri in Nepali. This comes from Sanskrit where dhawala means dazzling, white, beautiful and giri means mountain. Dhaulagiri I is also the highest point of the Gandaki river basin.",
+    "deathRate": "11"
+  },
+  {
+    "id": 8,
+    "url": "https://en.wikipedia.org/wiki/Manaslu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sunrise%2C_Manaslu.jpg",
+    "title": "Manaslu",
+    "height": 8163,
+    "description": "Manaslu (also known as Kutang) is the eighth highest mountain in the world at 8,163 metres (26,781 ft) above sea level. It is located in the Mansiri Himal, part of the Nepalese Himalayas, in the west-central part of Nepal. Its name, which means \"mountain of the spirit\", comes from the Sanskrit word manasa, meaning \"intellect\" or \"soul\". Manaslu was first climbed on May 9, 1956 by Toshio Imanishi and Gyalzen Norbu, members of a Japanese expedition. It is said that \"just as the British consider Everest their mountain, Manaslu has always been a Japanese mountain\". Manaslu is the highest peak in the Gorkha District and is located about 64 km (40 mi) east of Annapurna. The mountain's long ridges and valley glaciers offer feasible approaches from all directions, and culminate in a peak that towers steeply above its surrounding landscape, and is a dominant feature when viewed from afar",
+    "deathRate": "13.4"
+  },
+  {
+    "id": 9,
+    "url": "https://en.wikipedia.org/wiki/Nanga_Parbat",
+    "imageUrl": "http://www.danielenardi.org/wp-content/uploads/2015/01/Nanga-Parbat-Tramonto.jpg",
+    "title": "Nanga Parbat",
+    "height": 8126,
+    "description": "Nanga Parbat (locally known as Diamer), is the ninth highest mountain in the world at 8,126 metres (26,660 ft) above sea level. Located in the Diamer District of Pakistan Gilgit Baltistan region, Nanga Parbat is the western anchor of the Himalayas. The name Nanga Parbat is derived from the Sanskrit words nagna and parvata which together mean \"Naked Mountain\". The mountain is locally known by its Tibetan name Diamer or Deo Mir, meaning \"huge mountain\". Nanga Parbat is one of the eight-thousanders. An immense, dramatic peak rising far above its surrounding terrain, Nanga Parbat is also a notoriously difficult climb. Numerous mountaineering deaths in the mid and early-20th century lent it the nickname \"Killer Mountain.",
+    "deathRate": "5.5"
+  },
+  {
+    "id": 10,
+    "url": "https://en.wikipedia.org/wiki/Annapurna_Massif#Annapurna_I",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Annapurna_I_ABC_Morning.jpg",
+    "title": "Annapurna I",
+    "height": 8091,
+    "description": "Annapurna is a massif in the Himalayas in north-central Nepal that includes one peak over 8,000 metres (26,000 ft), thirteen peaks over 7,000 metres (23,000 ft), and sixteen more over 6,000 metres (20,000 ft). The massif is 55 kilometres (34 mi) long, and is bounded by the Kali Gandaki Gorge on the west, the Marshyangdi River on the north and east, and by Pokhara Valley on the south. At the western end the massif encloses a high basin called the Annapurna Sanctuary. Annapurna I Main is the tenth highest mountain in the world at 8,091 metres (26,545 ft) above sea level, and was the first of the Eight-thousanders to be climbed. The entire massif and surrounding area are protected within the 7,629 square kilometres (2,946 sq mi) Annapurna Conservation Area, the first and largest conservation area in Nepal. The Annapurna Conservation Area is home to several world-class treks, including Annapurna Sanctuary and Annapurna Circuit.",
+    "deathRate": "19.7"
+  },
+  {
+    "id": 11,
+    "url": "https://en.wikipedia.org/wiki/Gasherbrum_I",
+    "imageUrl": "http://activetourspakistan.com/wp-content/uploads/2017/10/Gasherbrum-1-peak-8035m-Expedition.jpg",
+    "title": "Gasherbrum I",
+    "height": 8080,
+    "description": "Gasherbrum I, surveyed as K5 and also known as Hidden Peak, is the 11th highest mountain in the world at 8,080 metres (26,510 ft) above sea level. It is located on the Pakistani/Chinese border in Gilgit/Baltistan region of Pakistan and Xinjiang region of China. Gasherbrum I is part of the Gasherbrum massif, located in the Karakoram region of the Himalaya. Gasherbrum is often claimed to mean \"Shining Wall\", presumably a reference to the highly visible face of the neighboring peak Gasherbrum IV; but in fact it comes from \"rgasha\" (beautiful) + \"brum\" (mountain) in Balti, hence it actually means \"beautiful mountain.\" Gasherbrum I was designated K5 (meaning the 5th peak of the Karakoram) by T.G. Montgomerie in 1856 when he first spotted the peaks of the Karakoram from more than 200 km away during the Great Trigonometric Survey of India. In 1892, William Martin Conway provided the alternate name, Hidden Peak, in reference to its extreme remoteness.",
+    "deathRate": "8.8"
+  },
+  {
+    "id": 12,
+    "url": "https://en.wikipedia.org/wiki/Broad_Peak",
+    "imageUrl": "http://www.alanarnette.com/blog/wp-content/uploads/2018/07/Broad-peak.jpg",
+    "title": "Broad Peak",
+    "height": 8051,
+    "description": "Broad Peak is the 12th highest mountain in the world at 8,047 metres (26,401 ft) above sea level. The literal translation of \"Broad Peak\" to Falchan Kangri is not used among the Balti people. The English name was introduced in 1892 by the British explorer Martin Conway, in reference to the similarly named Breithorn in the Alps. Broad Peak is part of the Gasherbrum massif in Baltistan on the border of Pakistan and China. It is located in the Karakoram mountain range about 8 kilometres (5.0 mi) from K2. It has a summit over 1.5 kilometres (0.93 mi) long, thus \"Broad Peak\". The mountain has several summits: Broad Peak (8051 m), Rocky Summit (8028 m), Broad Peak Central (8011 m), Broad Peak North (7490 m), and Kharut Kangri (6942 m).",
+    "deathRate": "8.6"
+  },
+  {
+    "id": 13,
+    "url": "https://en.wikipedia.org/wiki/Gasherbrum_II",
+    "imageUrl": "http://activetourspakistan.com/wp-content/uploads/2017/10/Gasherbrum-II-peak-8035m-Expedition.jpg",
+    "title": "Gasherbrum II",
+    "height": 8035,
+    "description": "Gasherbrum II; surveyed as K4, is the 13th highest mountain in the world at 8,035 metres (26,362 ft) above sea level. It is the third-highest peak of the Gasherbrum massif, and is located in the Karakoram, on the border between Gilgit/Baltistan province, Pakistan, and Xinjiang, China. The mountain was first climbed on July 7, 1956, by an Austrian expedition which included Fritz Moravec, Josef Larch, and Hans Willenpart. Gasherbrum II is located on the border of Gilgit/Baltistan, Pakistan, and Xinjiang, China. It is part of the Karakoram mountain range in the Himalayas, and located at the top of the Baltoro Glacier. With an elevation of 8,035 metres (26,362 ft) it is the third-highest member of the Gasherbrum group, behind Gasherbrum I (8,080 metres or 26,510 feet) and Broad Peak (8,051 metres or 26,414 feet). Gasherbrum III is sometimes considered to be a subpeak of Gasherbrum II, because the former has a topographic prominence of only 461 metres (1,512 ft).",
+    "deathRate": "0.4"
+  },
+  {
+    "id": 14,
+    "url": "https://en.wikipedia.org/wiki/Shishapangma",
+    "imageUrl": "https://80d2853cc4def76b377d-54344bc01a8b066c84096a8e7a3499ac.ssl.cf1.rackcdn.com/original/380376.JPG",
+    "title": "Shishapangma",
+    "height": 8027,
+    "description": "Shishapangma, also called Gosainth_n, is the 14th highest mountain in the world at 8,027 metres (26,335 ft) above sea level. It was the last 8,000 metre peak to be climbed, due to its location entirely within Tibet and the restrictions on visits by foreign travelers to the region imposed by authorities of the Government of China and of the Tibet Autonomous Region. Shishapangma is located in south-central Tibet, five kilometres from the border with Nepal. It is the only eight-thousander entirely within Chinese territory. It is also the highest peak in the Jugal Himal which is contiguous with and often considered part of Langtang Himal. The Jugal/Langtang Himal straddles the Tibet/Nepal border. Since Shishapangma is on the dry north side of the Himalayan crest and further from the lower terrain of Nepal, it has less dramatic vertical relief than most major Himalayan peaks. Shishapangma has a subsidiary peak higher than 8000 m: Central-Peak at 8008 m.",
+    "deathRate": "16.8"
+  }
+]

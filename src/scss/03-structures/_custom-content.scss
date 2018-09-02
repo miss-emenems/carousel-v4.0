@@ -1,0 +1,222 @@
+// -------- CAROUSEL custom style for CONTENT -------- //
+
+
+$gradient-1: $blue-1 0%, $blue-3 100%;
+$gradient-2: $pink-1 0%, $blue-4 100%;
+$gradient-3: $blue-2 0%, $green-3 100%;
+$gradient-4: $purple-1 0%, $blue-4 100%;
+$gradient-5: $green-1 0%, $purple-4 100%;
+$gradient-6: $blue-2 0%, $blue-4 100%;
+
+
+.slide {
+
+  position: relative;
+
+  background-position: center;
+  background-size: cover;
+
+  & > div {
+
+    box-sizing: border-box;
+    position: relative;
+    z-index: 1;
+
+    &:before {
+
+      content: '';
+      position: absolute;
+      pointer-events: none;
+      transition: all 0.5s ease;
+
+    }
+
+    &:before {
+
+      width: 0px;
+      height: 0px;
+      left: 50%;
+      top: 50%;
+      border-radius: 50%;
+      z-index: 0;
+
+      opacity: 0;
+      @include translate(-50%,-50%);
+
+    }
+
+  }
+  &:before {
+    content: '';
+
+    width: 100%;
+    height: 100%;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+
+    pointer-events: none;
+
+  }
+
+  @mixin slide-gradient-builder($frequency, $deg, $gradient) {
+    &:nth-of-type(#{$frequency}) {
+      &:before {
+        background: linear-gradient($deg, $gradient);
+        opacity: 0.85;
+      }
+      & > div {
+        &:before, &:after {
+          background: linear-gradient($deg, $gradient);
+        }
+      }
+    }
+  }
+
+  @include slide-gradient-builder(1n + 0, 120deg, $gradient-1);
+  @include slide-gradient-builder(2n + 0,  30deg, $gradient-3);
+  @include slide-gradient-builder(3n + 0,  70deg, $gradient-4);
+  @include slide-gradient-builder(4n + 0,  45deg, $gradient-6);
+  @include slide-gradient-builder(5n + 0,  45deg, $gradient-5);
+  @include slide-gradient-builder(2n + 3,  30deg, $gradient-2);
+
+}
+
+
+.my-slide {
+  color: white;
+  overflow: hidden;
+  height: 450px;
+
+  display: grid;
+  grid-template-columns: 0 auto;
+  grid-template-rows: 1fr;
+
+  .slide__content {
+    padding: 4rem;
+
+    grid-column: 2 / span 1;
+    grid-row: 1 / span 1;
+  }
+
+  .slide__image {
+
+    grid-column: 1 / span 1;
+    grid-row: 1 / span 1;
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    position: relative;
+
+    width: 0;
+
+    transition: all 0.3s ease;
+  }
+
+  .description {
+    display: none;
+  }
+
+  .button {
+
+    &--close {
+      position: absolute;
+      top: 0;
+      right: -50px;
+      opacity: 0;
+    }
+
+    &--shop {
+      display: none;
+    }
+  }
+
+  &.expanded {
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+
+    z-index: 10;
+
+    padding: 0 4rem 0 0;
+
+    grid-template-columns: 2fr 1fr;
+
+    .slide__content {
+
+      position: relative;
+      z-index: 10;
+
+      height: 100%;
+
+      grid-column: 2 / span 1;
+
+    }
+
+    .slide__image {
+
+      grid-column: 1 / span 1;
+      grid-row: 1 / span 1;
+
+      width: 100% !important;
+
+    }
+
+    h2 {
+      font-size: 2.6em;
+      grid-column: 2 / span 1;
+      grid-row: 1 / span 1;
+
+    }
+
+    .height {
+      grid-column: 2 / span 1;
+      grid-row: 2 / span 1
+
+    }
+
+    p.description {
+      display: block;
+
+      grid-column: 2 / span 1;
+      grid-row: 2 / span 1;
+
+      max-height: 50vh;
+      overflow: auto;
+      padding-right: 1em;
+    }
+
+    &:before {
+
+      width: 3000px;
+      height: 3000px;
+      opacity: 1;
+
+    }
+
+    .button {
+
+      &--close {
+        opacity: 1;
+        right: 0;
+      }
+
+      &--expand {
+        display: none;
+      }
+
+      &--shop {
+        display: block;
+      }
+    }
+
+  }
+
+}
