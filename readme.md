@@ -1,14 +1,3 @@
-## Front end test
-
-### Requirements
-
-* Build a simple functional product carousel.
-* This should be created from a list of products supplied via an api.
-* The carousel should at least include the product \* image, which will link to the correct URL
-* It should work in all major browsers (latest versions)
-* The carousel container should be centred horizontally and vertically.
-* The carousel should have buttons to move through the images
-
 ## Carousel - Documentation
 
 ### About feature
