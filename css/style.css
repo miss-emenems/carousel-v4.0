@@ -84,7 +84,8 @@ p {
 
 body {
   font-family: "Montserrat", Helvetica, Sans-Serif;
-  margin: 0; }
+  margin: 0;
+  background-color: #21272f; }
 
 .app {
   min-height: 100vh;
@@ -268,7 +269,3 @@ body {
       display: none; }
     .my-slide.expanded .button--shop {
       display: block; }
-
-img {
-  max-width: 300px;
-  display: block; }
